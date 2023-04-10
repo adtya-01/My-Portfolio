@@ -187,15 +187,15 @@ import {
         "Tindog is a simple web application built with HTML, CSS, and Bootstrap that allows users to browse and connect with other dog owners . It is a practice front-end webpage to practice the design aspects.",
       tags: [
         {
-          name: "react",
+          name: "Bootstrap",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Html",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Css",
           color: "pink-text-gradient",
         },
       ],
@@ -214,11 +214,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "rapidapi",
+          name: "3.js",
           color: "green-text-gradient",
         },
         {
-          name: "Material UI",
+          name: "Tailwind",
           color: "pink-text-gradient",
         },
       ],
