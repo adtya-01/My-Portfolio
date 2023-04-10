@@ -224,7 +224,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/adtya-01/My-Portfolio",
-      live_link: "https://my-portf0li0.netlify.app/"
+      live_link: "https://my-3-portfolio.netlify.app/"
     },
     
   ];
