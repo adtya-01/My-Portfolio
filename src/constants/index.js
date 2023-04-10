@@ -18,9 +18,8 @@ import {
     acalvio,
     intense,
     defend,
-    carrent,
-    jobit,
-    tripguide,
+    fit,
+    tindog,
     threejs,
   } from "../assets";
   
@@ -156,59 +155,35 @@ import {
   
   ];
   
-  const testimonials = [
-    {
-      testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
-  ];
+
   
   const projects = [
     {
-      name: " Rent",
+      name: "Exercise",
       description:
-        "Web platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Quantum Fitness is a Gym Fitness App with the functionality to choose exercise categories, browse exercises with examples, exercise details and pull related videos from YouTube to display similar exercises.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "rapidapi",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Material UI",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: fit,
+      source_code_link: "https://github.com/adtya-01/quantum-fitness",
+      live_link: "https://quantumfitness.netlify.app/"
     },
     {
-      name: "Job IT",
+      name: "Dating",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Tindog is a simple web application built with HTML, CSS, and Bootstrap that allows users to browse and connect with other dog owners . It is a practice front-end webpage to practice the design aspects.",
       tags: [
         {
           name: "react",
@@ -223,30 +198,11 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: tindog,
+      source_code_link: "https://github.com/adtya-01/TinDog",
+      live_link: "https://adtya-01.github.io/TinDog/"
     },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+    
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, projects };
