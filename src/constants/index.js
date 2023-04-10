@@ -223,8 +223,8 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/adtya-01/quantum-fitness",
-      live_link: "https://quantumfitness.netlify.app/"
+      source_code_link: "https://github.com/adtya-01/My-Portfolio",
+      live_link: "https://my-portf0li0.netlify.app/"
     },
     
   ];
