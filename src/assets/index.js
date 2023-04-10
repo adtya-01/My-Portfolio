@@ -29,6 +29,7 @@ import intense from "./company/intense.png";
 
 import fit from "./fit.png";
 import tindog from "./tindog.png";
+import portfolio from "./portfolio.png"
 
 
 export {
@@ -59,5 +60,6 @@ export {
   intense,
   fit,
   tindog,
-  live
+  live,
+  portfolio
 };

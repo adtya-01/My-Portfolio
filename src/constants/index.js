@@ -21,6 +21,7 @@ import {
     fit,
     tindog,
     threejs,
+    portfolio
   } from "../assets";
   
   export const navLinks = [
@@ -201,6 +202,29 @@ import {
       image: tindog,
       source_code_link: "https://github.com/adtya-01/TinDog",
       live_link: "https://adtya-01.github.io/TinDog/"
+    },
+
+    {
+      name: "Portfolio",
+      description:
+        "A 3D portfolio of all my experiences and skillset using React.js, Tailwind, 3.js , with an About section, Experience section, Project section and contact section to get in touch with me.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "rapidapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Material UI",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: portfolio,
+      source_code_link: "https://github.com/adtya-01/quantum-fitness",
+      live_link: "https://quantumfitness.netlify.app/"
     },
     
   ];
