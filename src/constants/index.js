@@ -15,10 +15,9 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    acalvio,
+    intense,
+    defend,
     carrent,
     jobit,
     tripguide,
@@ -118,7 +117,7 @@ import {
     {
       title: "Front-end Developer",
       company_name: "Acalvio",
-      icon: starbucks,
+      icon: acalvio,
       iconBg: "#383E56",
       date: "March 2017 - Sep 2019",
       points: [
@@ -131,7 +130,7 @@ import {
     {
       title: "React.js Developer",
       company_name: "Intense Technologies Ltd",
-      icon: tesla,
+      icon: intense,
       iconBg: "#E6DEDD",
       date: "Oct 2019 - May 2021",
       points: [
@@ -144,7 +143,7 @@ import {
     {
       title: "React.js Developer",
       company_name: "HelpUsDefend",
-      icon: shopify,
+      icon: defend,
       iconBg: "#383E56",
       date: "April 2023 - Present",
       points: [
