@@ -1,14 +1,14 @@
 # Project Title
 
-Tindog 
+Portfolio
 
 ## Description
 
-This is a 3d
+This is a 3d portfolio of all my experiences and skillset using React.js, Tailwind, 3.js , with an About section, Experience section, Project section and contact section to get in touch with me.
 
 ## Demo
 
-You can try out the Tindog application live at [[Quantum-Fitness](https://quantumfitness.netlify.app/)]
+You can try out the Portfolio application live at [[Portfolio](https://my-3-portfolio.netlify.app/)]
 
 
 ## Getting Started
@@ -30,7 +30,7 @@ If you find a bug or would like to suggest an improvement, please feel free to o
 
 ## Screenshots
 
-<img src = coverpg.png>
+<img src = portfolio.png>
 <img src = searchpg.png>
 <img src = detail.png>
 
