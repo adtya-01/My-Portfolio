@@ -31,6 +31,6 @@ If you find a bug or would like to suggest an improvement, please feel free to o
 ## Screenshots
 
 <img src = portfolio.png>
-<img src = searchpg.png>
-<img src = detail.png>
+<img src = project.png>
+<img src = contact.png>
 
