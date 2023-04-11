@@ -6,9 +6,6 @@ Tindog
 
 This is a 3d
 
-
-
-
 ## Demo
 
 You can try out the Tindog application live at [[Quantum-Fitness](https://quantumfitness.netlify.app/)]
