@@ -19,7 +19,7 @@ To use the 3D portfolio on your local machine, simply clone the repository and o
 
 
 ```bash
-  git clone https://github.com/adtya-01/My-Portfolio.git
+   git clone https://github.com/adtya-01/My-Portfolio.git
 ```
   - Open index.html in your web browser
   - Start browsing and working out
