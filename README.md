@@ -4,7 +4,7 @@ Portfolio
 
 ## Description
 
-This is a 3d portfolio of all my experiences and skillset using React.js, Tailwind, 3.js , with an About section, Experience section, Project section and contact section to get in touch with me.
+ This is a 3d portfolio of all my experiences and skillset using React.js, Tailwind, 3.js , with an About section, Experience section, Project section and contact section to get in touch with me.
 
 ## Demo
 
