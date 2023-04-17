@@ -38,7 +38,7 @@ import {
       title: "Contact",
     },
   ];
-  
+ 
   const services = [
     {
       title: "Web Developer",
