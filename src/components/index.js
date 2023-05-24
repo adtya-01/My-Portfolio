@@ -19,4 +19,5 @@ export {
   BallCanvas, 
   ComputersCanvas, 
   StarsCanvas
+
 }
